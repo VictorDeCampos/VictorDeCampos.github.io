@@ -54,10 +54,6 @@ body {
   padding:5px 15px 5px 15px;
   background-color:rgba(177,255,248,0.14);
 }
-#i04gb{
-  color:#ffffff;
-  text-decoration:none;
-}
 #i30ik{
   color:#ffffff;
   text-decoration:none;
@@ -75,7 +71,7 @@ body {
 }
 #i73x2{
   padding:50px 0 24px 0;
-  background-color:#102542;
+  background-color:#083047;
   font-family:Brush Script MT, sans-serif;
 }
 #i0pu9{
@@ -456,7 +452,7 @@ body {
   margin:0 0 0 0;
   width:100%;
   max-width:100%;
-  background-image:url('https://cdn.grapedrop.com/ua5f3d3ba6e4a4e8187f179bd1e1c49b2/f7d4b2ba80994f2e998da9ac0c9a3e60_reel.png');
+  background-image:url('https://cdn.grapedrop.com/ua5f3d3ba6e4a4e8187f179bd1e1c49b2/4c9a02f145a94360949742c6d886c7bf_reel.png');
   background-repeat:repeat;
   background-position:right center;
   background-attachment:local;
@@ -507,6 +503,10 @@ body {
   display:inline-block;
   min-height:50px;
   min-width:50px;
+}
+#i7lw1f{
+  color:#ffffff;
+  text-decoration:none;
 }
 @media (max-width: 768px){
   .gpd-navbar__menu{
