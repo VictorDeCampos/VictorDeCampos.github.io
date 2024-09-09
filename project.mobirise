@@ -83,7 +83,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/duckling-logo2-1725125722709.jpeg"
       },
       "components": [
         {
@@ -1086,14 +1087,16 @@
         }
       ]
     },
-    "page1.html": {
+    "about.html": {
       "settings": {
         "title": "About",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "1"
+        "order": "1",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/duckling-logo2-1725125722709.jpeg"
       },
       "components": [
         {
